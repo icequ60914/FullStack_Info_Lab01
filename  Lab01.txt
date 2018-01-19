@@ -1,5 +1,5 @@
 1. Change Directory
-cd <path>
+cd theDirectory
 
 2. Create a Directory
 mkdir theDirectory
@@ -23,4 +23,4 @@ grep "theString" theFile.txt
 ssh remote_host
 
 9. Remove a directory folder
-rm 
+rmdir theDirectory
